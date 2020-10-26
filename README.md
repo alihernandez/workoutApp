@@ -1,19 +1,15 @@
 
-# **README Generator**
+# **Workout Tracker**
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## gitHub portfolio:
 https://github.com/alihernandez
 
-## Email: 
-ali.hernandez92@gmail.com
-
-## working app youTube link:
-https://www.youtube.com/watch?v=N2WtUqHev0I&feature=youtu.be
+## Email: ali.hernandez9two@gmail.com
 
 ## Description 
 ------------
-a command-line application that dynamically generates a professional README.md from a user's input.
+A Workout App that lets users track their daily workouts. Displays users exercise stats on graphs.
 
 ## Table of Contents 
 ------------
@@ -24,15 +20,15 @@ a command-line application that dynamically generates a professional README.md f
 
 ## Installation
 ------------
-*npm i *node index.js 
+npm i 
 
 ## Usage 
 ------------
-Open index.js in terminal/install dependencies/run app/answer questions/copy readMe.md that is generated into your own projects.
+npm i then npm start. Add a workout by clicking add workout. Continue on a workout by clicking `continue`.
 
 ## Credits
 ------------
-Tutor and instructor were a huge help.
+Learning assitants, Phil Loy(tutor), and classmates.
 
 ## License
 ------------
@@ -47,17 +43,5 @@ N/A
 ## Tests
 ------------
 N/A
-
-## Questions
-------------
-* "hello what's the title of the project?"
-* "whats your github username?"
-* "please enter a short description of your project"
-* "please enter command required to install the project:"
-* "please provied instructions and examples for use:"
-* "please select applicable licenses:"
-* "List your collaborators, if any."
-* "If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so."
-* "If you know how to run tests include them here:"
 
 
